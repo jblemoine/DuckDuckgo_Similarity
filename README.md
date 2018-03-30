@@ -22,7 +22,8 @@ from Duckduckgo_Similarity.engine import DdgToken
 doc1 = DdgToken('the fries were gross')
 doc2 = DdgToken('worst fries ever')
 
-print(doc1.similarity(doc2))
+print(doc1.similarity(doc2,
+                      metric='mean')) # allowed values : 'mean', 'max'.
 
 ```
 
