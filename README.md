@@ -1,2 +1,3 @@
-# Duckduckgo-Similarity-Engine
+# DuckDuckgo_Similarity
+
 Similarity engine using duckduckgo api
