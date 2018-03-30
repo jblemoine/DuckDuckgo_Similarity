@@ -58,7 +58,7 @@ class DdgToken:
         :param metric: operation to perform over the feature similarity scores. Either 'max' or 'mean'. Default 'mean'.
         :type token: DdgToken
         :type metric: str
-        :return: Similarity metric between two Duckduckgo reasearchs.
+        :return: Similarity metric between two Duckduckgo research.
         :rtype: float
         """
 
