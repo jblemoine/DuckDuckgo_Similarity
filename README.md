@@ -1,7 +1,6 @@
 # DuckDuckgo_Similarity
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jblemoine/DuckDuckgo_Similarity/master)
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/jblemoine/DuckDuckgo_Similarity/master
 
 Similarity engine using duckduckgo api
 
