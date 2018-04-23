@@ -1,2 +1,5 @@
 spacy>=2.0.9
 googletrans
+pandas
+seaborn
+matplotlib
