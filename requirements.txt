@@ -1,5 +1,5 @@
 spacy>=2.0.9
-googletrans
-pandas
-seaborn
-matplotlib
+pandas==0.22.0
+seaborn==0.8.1
+matplotlib==2.1.2
+googletrans==2.2.0
