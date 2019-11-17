@@ -6,8 +6,7 @@ Similarity engine using duckduckgo api
 
 ```sh
 
-$pip install -r path/DuckDuckGo_Similarity/requirements.txt
-$python -m spacy download en
+$pip install -r requirements.txt
 ```
 
 # Usage 
